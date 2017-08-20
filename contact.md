@@ -10,9 +10,9 @@ feature-img: "img/color.png"
 **<center><a href="mailto:luishernandez01@live.com">luishernandez01@live.com</a></center>**
 
 Or send me a message using the form below:<br>
-<form action="https://getsimpleform.com/messages?form_api_token=" method="post">
+<form action="https://getsimpleform.com/messages?form_api_token=52d2f33c4f3262e6747cf76d68ba3496" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-  <input type='hidden' name='redirect_to' value='full-url/thank-you/' />
+  <input type='hidden' name='redirect_to' value='http://luischernandez.github.io/thank-you' />
   <input type='text' name='name' placeholder='Your Full Name' />
   <input type='email' name='email' placeholder='Your E-mail Address' />
   <textarea name='message' placeholder='Write your message ...'></textarea>
